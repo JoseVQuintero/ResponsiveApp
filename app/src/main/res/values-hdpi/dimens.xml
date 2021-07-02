@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text -->
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_13">13sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_17">17sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+
+    <!-- Dimens -->
+    <dimen name="dime_2">2dp</dimen>
+    <dimen name="dime_4">4dp</dimen>
+    <dimen name="dime_6">6dp</dimen>
+    <dimen name="dime_8">8dp</dimen>
+    <dimen name="dime_10">10dp</dimen>
+    <dimen name="dime_12">12p</dimen>
+    <dimen name="dime_14">14dp</dimen>
+    <dimen name="dime_16">16dp</dimen>
+    <dimen name="dime_18">18dp</dimen>
+    <dimen name="dime_20">20dp</dimen>
+    <dimen name="dime_22">22dp</dimen>
+    <dimen name="dime_24">24dp</dimen>
+
+    <dimen name="width_logo_principal">20dp</dimen>
+    <dimen name="height_logo_principal">10dp</dimen>
+
+    <dimen name="width_button_left">20dp</dimen>
+    <dimen name="height_button_left">10dp</dimen>
+
+    <dimen name="width_button_rigth">20dp</dimen>
+    <dimen name="height_button_rigth">10dp</dimen>
+</resources>
